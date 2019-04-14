@@ -28,4 +28,5 @@
 
 #### _Entity Relation_ timeline
 
-* _Has one_ __User__ by __owner__
+* _Belonging to_ __User__ by __owner__
+  * _on delete cascade_
