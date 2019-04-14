@@ -40,8 +40,6 @@ _See_ [app update model](models/reversion.api-inline.md)
 
 _See_ [comments model](models/comment.api-inline.md)
 
-### User `users` 极安用户
-
 ### Category `categories` 应用程序分类
 
 #### _Entity Data_ category
@@ -62,6 +60,20 @@ _See_ [comments model](models/comment.api-inline.md)
 
 ♥￣\\\_(ㇱ)_/￣~~✐~~ 👈 此模型没有任何关系哦~
 
+### User `users` 极安用户
+
+* GeekApk users
+
+_See_ [users model](models/user.api-inline.md)
+
 ### Notification `notifications` 用户通知
 
+* GeekApk user private notification box
+
+_See_ [notification model](models/notification.api-inline.md)
+
 ### Timeline `site_timeline` 用户时间线记录
+
+* A user's public timeline
+
+_See_ [timeline model](models/timeline.api-inline.md)
