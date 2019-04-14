@@ -60,6 +60,10 @@ _See_ [comments model](models/comment.api-inline.md)
 
 ♥￣\\\_(ㇱ)_/￣~~✐~~ 👈 此模型没有任何关系哦~
 
+不过还是有一个
+
+* _Has many_ __App__ by __App.category__
+
 ### User `users` 极安用户
 
 * GeekApk users

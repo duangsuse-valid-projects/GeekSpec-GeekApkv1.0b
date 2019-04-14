@@ -51,7 +51,10 @@
 #### _Entity Relation_ comment
 
 * _Belonging to_ __User__ by __author__
+  * _on delete set_ `-1`
 * _Belonging to_ __App__ by __app__
+  * _on delete set_ `-1`
 * _Belonging to_ __Comment__ by __replies__
+  * _observes delete_ `onParentCommentDeleted`
 * _Has many_ __Comment__ "reply" by __Comment.replies__
   * _observes attach_ `onNewReply`
