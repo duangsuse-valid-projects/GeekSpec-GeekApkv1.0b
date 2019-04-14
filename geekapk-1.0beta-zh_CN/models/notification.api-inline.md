@@ -32,3 +32,5 @@
   Marked as read?
 
 #### _Entity Relation_ notification
+
+* _Has one_ __User__ by __owner__

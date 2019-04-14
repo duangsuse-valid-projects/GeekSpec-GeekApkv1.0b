@@ -79,3 +79,15 @@
   * Countes "follower"
 
 #### _Entity Relation_ user
+
+* _Has many_ __App__ by __App.author__
+
+* _Has many_ __App__ "stared" by set __App.stargazers__
+
+* _Has many_ __App__ "collab" by __App.collaborators__
+
+* _Has many_ __Comment__ by __Comment.author__
+
+* _Has many_ __Notification__ by __Notification.owner__
+
+* _Has many_ __Timeline__ by __Timeline.owner__

@@ -27,3 +27,5 @@
   Created date timestamp
 
 #### _Entity Relation_ timeline
+
+* _Has one_ __User__ by __owner__
