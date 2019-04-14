@@ -48,7 +48,7 @@
 
   Comment replies number
 
-#### _Entity Relationship_ comment
+#### _Entity Relation_ comment
 
 * _Belonging to_ __User__ by __author__
 * _Belonging to_ __App__ by __app__

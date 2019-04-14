@@ -50,7 +50,7 @@
 
   Creation time for this update
 
-#### _Entity Relationship_ update
+#### _Entity Relation_ update
 
 * _Belonging to_ __App__ by __forApp__
   * _on delete cascade_

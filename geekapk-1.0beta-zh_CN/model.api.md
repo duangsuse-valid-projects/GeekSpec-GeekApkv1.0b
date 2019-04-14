@@ -44,6 +44,20 @@ _See_ [comments model](models/comment.api-inline.md)
 
 ### Category `categories` 应用程序分类
 
+#### _Entity Data_ category
+
+* id, Int
+  * Generated, IDENTITY
+
+* name, String
+  * Default `"(none)"`
+  * Natural Language
+  * Size Validation `[0, 60)`: `"category name too long or empty"`
+
+  Category name, maybe hierarchical using `'/'` character
+
+#### _Entity Relation_ category
+
 ### Notification `notifications` 用户通知
 
 ### Timeline `site_timeline` 用户时间线记录

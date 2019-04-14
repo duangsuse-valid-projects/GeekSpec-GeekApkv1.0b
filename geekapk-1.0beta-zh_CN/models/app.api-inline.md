@@ -91,7 +91,7 @@
 * commentsCount, Int
   * Counts __Comment__
 
-#### _Entity Relationship_ app
+#### _Entity Relation_ app
 
 * _Belonging to_ __User__ by __author__
   * _observes update_ `onOwnerChanged`
