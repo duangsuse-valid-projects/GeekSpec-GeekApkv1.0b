@@ -40,7 +40,7 @@
   Markdown readme text
 
 * icon, String
-  * Default `""`
+  * Default `"https://github.com/feathericons/feather/blob/7b8ff33195a5c3aacf6459bfc290558dad462285/icons/package.svg"`
   * URL
   * Large Object
   * Max Byte Size Validation `500K`
