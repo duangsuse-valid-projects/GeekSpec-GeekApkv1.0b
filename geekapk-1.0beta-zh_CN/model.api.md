@@ -58,6 +58,10 @@ _See_ [comments model](models/comment.api-inline.md)
 
 #### _Entity Relation_ category
 
+* _Observes creation_ `onCategoryCreated`
+
+♥￣\\\_(ㇱ)_/￣~~✐~~ 👈 此模型没有任何关系哦~
+
 ### Notification `notifications` 用户通知
 
 ### Timeline `site_timeline` 用户时间线记录

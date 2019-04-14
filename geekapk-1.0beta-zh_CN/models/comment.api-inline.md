@@ -54,4 +54,4 @@
 * _Belonging to_ __App__ by __app__
 * _Belonging to_ __Comment__ by __replies__
 * _Has many_ __Comment__ "reply" by __Comment.replies__
-  * _observe attach_ `onNewReply`
+  * _observes attach_ `onNewReply`
